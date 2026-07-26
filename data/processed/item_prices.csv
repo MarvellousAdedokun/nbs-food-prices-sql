@@ -1,0 +1,255 @@
+item_name,month,avg_price,highest_state,highest_price,lowest_state,lowest_price
+Agric eggs medium size,2024-11-01,2833.97,Gombe,3600.0,Borno,2381.15
+Agric hen eggs,2024-11-01,247.26,Gombe,300.0,Borno,199.73
+Beans Brown,2024-11-01,2720.96,Bauchi,3675.0,Adamawa,1925.0
+Beans white,2024-11-01,2546.7,Ebonyi,3157.2,Adamawa,1750.0
+Beef Bone in,2024-11-01,5073.74,Niger,6244.03,Anambra,3650.97
+Beef Boneless,2024-11-01,6001.32,Enugu,7020.85,Yobe,4800.0
+Bread sliced 500g,2024-11-01,1588.03,Rivers,1881.67,Yobe,1120.4
+Bread unsliced 500g,2024-11-01,1486.25,Delta,1805.42,Borno,1053.56
+Local Rice (Broken),2024-11-01,2485.14,Osun,3400.0,Adamawa,1500.0
+Catfish (obokun) fresh,2024-11-01,4259.99,Bayelsa,5885.71,Adamawa,3000.0
+Catfish :dried,2024-11-01,5787.74,Imo,12181.27,Kano,3950.44
+Catfish Smoked,2024-11-01,4352.77,Yobe,6255.22,Kebbi,3391.67
+Chicken Feet,2024-11-01,3336.7,Niger,5713.05,Taraba,1200.0
+Chicken Wings,2024-11-01,4316.41,Ondo,6100.0,Adamawa,2200.0
+Dried Fish Sardine,2024-11-01,4766.56,Nasarawa,7474.67,Niger,2900.57
+Evaporated tinned milk carnation 170g,2024-11-01,873.77,Gombe,1525.0,Kogi,640.53
+"Evaporated tinned milk(peak), 170g",2024-11-01,991.2,Gombe,1450.0,Niger,750.0
+Frozen chicken,2024-11-01,6130.51,Gombe,8900.0,Ondo,4850.0
+Garri white,2024-11-01,1205.39,Gombe,1550.0,Kogi,1000.04
+Garri Yellow,2024-11-01,1311.03,Gombe,1575.0,Kogi,1100.03
+"Groundnut oil, 75cl",2024-11-01,3165.38,Ekiti,4100.0,Adamawa,2100.0
+Iced Sardine,2024-11-01,3875.66,Gombe,5308.98,Niger,2562.63
+Irish Potato,2024-11-01,1778.96,Kogi,2839.31,Bauchi,1075.42
+Mackerel Frozen,2024-11-01,4203.76,Imo,5583.0,Abuja,2713.69
+Maize grain white,2024-11-01,1156.91,Taraba,1600.0,Borno,830.36
+Maize grain yellow sold loose,2024-11-01,1163.24,Taraba,1700.0,Jigawa,828.82
+Mudfish (aro) fresh,2024-11-01,4136.48,Akwa Ibom,5696.18,Benue,2628.08
+Mudfish : dried,2024-11-01,5345.99,Abia,10329.43,Plateau,3145.69
+Onions fresh,2024-11-01,1878.0,Ebonyi,3025.0,Yobe,855.26
+"Palm oil, 75cl",2024-11-01,2466.79,Taraba,3500.0,Abuja,1442.83
+Plantain (ripe),2024-11-01,1540.05,Edo,2257.75,Borno,913.89
+Plantain (unripe),2024-11-01,1566.2,Ondo,2300.0,Benue,899.47
+Rice agric sold loose,2024-11-01,2042.35,Nasarawa,3121.18,Benue,1356.37
+Rice local sold loose,2024-11-01,1959.98,Kogi,2758.06,Benue,1268.66
+Rice Medium Grained,2024-11-01,2104.43,Kogi,2910.41,Benue,1630.42
+Rice Long-Grained (Imported),2024-11-01,2489.15,Kogi,3263.85,Niger,2023.94
+Sweet potatoes,2024-11-01,942.24,Cross River,1989.04,Adamawa,450.0
+Tilapia fresh fish (Epiya),2024-11-01,4039.63,Ebonyi,6384.57,Taraba,2200.0
+"Titus, frozen",2024-11-01,4626.82,Ebonyi,5661.92,Taraba,3250.0
+"Tomatoes, fresh",2024-11-01,1472.18,Enugu,2352.28,Borno,660.84
+"Vegetable Oil, 75cl",2024-11-01,3147.05,Ekiti,4000.0,Bauchi,2200.0
+"Wheat Flour, Prepacked (2kg)",2024-11-01,3819.37,Niger,5462.63,Plateau,2667.9
+Yam Tuber,2024-11-01,1836.01,Kwara,4041.66,Borno,885.74
+Agric eggs medium size,2024-12-01,2866.92,Gombe,3600.65,Borno,2431.2
+Agric hen eggs,2024-12-01,252.17,Bauchi,300.73,Taraba,212.0
+Beans Brown,2024-12-01,2501.32,Bauchi,3500.32,Yobe,1755.63
+Beans white,2024-12-01,2319.04,Abuja,3176.63,Yobe,1534.59
+Beef Bone in,2024-12-01,5153.18,Akwa Ibom,6466.67,Abia,3792.87
+Beef Boneless,2024-12-01,6150.18,Enugu,7316.2,Borno,5041.6
+Bread sliced 500g,2024-12-01,1610.83,Akwa Ibom,1890.0,Benue,1299.01
+Bread unsliced 500g,2024-12-01,1512.13,Delta,1823.75,Yobe,1112.87
+Local Rice (Broken),2024-12-01,2512.33,Osun,3500.0,Adamawa,1600.0
+Catfish (obokun) fresh,2024-12-01,4347.44,Bayelsa,5815.86,Nasarawa,3110.1
+Catfish :dried,2024-12-01,6044.08,Imo,12478.59,Katsina,4100.14
+Catfish Smoked,2024-12-01,4475.1,Yobe,7142.86,Kebbi,3310.57
+Chicken Feet,2024-12-01,3397.83,Niger,5715.05,Taraba,1250.0
+Chicken Wings,2024-12-01,4422.8,Ondo,6120.0,Adamawa,2300.0
+Dried Fish Sardine,2024-12-01,4908.42,Nasarawa,7669.01,Niger,2903.57
+Evaporated tinned milk carnation 170g,2024-12-01,887.45,Gombe,1575.0,Kogi,640.11
+"Evaporated tinned milk(peak), 170g",2024-12-01,1014.74,Gombe,1455.0,Niger,810.0
+Frozen chicken,2024-12-01,6473.81,Yobe,12000.0,Ondo,4870.0
+Garri white,2024-12-01,1184.77,Gombe,1500.0,Kogi,800.1
+Garri Yellow,2024-12-01,1296.93,Gombe,1720.0,Kogi,1000.03
+"Groundnut oil, 75cl",2024-12-01,3328.17,Osun,4133.33,Niger,2282.59
+Iced Sardine,2024-12-01,4014.23,Gombe,5850.39,Niger,2565.63
+Irish Potato,2024-12-01,1818.29,Kogi,2840.23,Yobe,1038.46
+Mackerel Frozen,2024-12-01,4287.65,Imo,5748.4,Abuja,2716.99
+Maize grain white,2024-12-01,1151.13,Adamawa,1800.0,Borno,777.99
+Maize grain yellow sold loose,2024-12-01,1160.22,Taraba,1700.0,Yobe,800.27
+Mudfish (aro) fresh,2024-12-01,4166.68,Oyo,5868.57,Benue,2685.9
+Mudfish : dried,2024-12-01,5632.34,Abia,11717.68,Niger,3199.89
+Onions fresh,2024-12-01,2057.81,Ebonyi,3286.92,Borno,1000.0
+"Palm oil, 75cl",2024-12-01,2582.35,Adamawa,3350.0,Niger,1172.81
+Plantain (ripe),2024-12-01,1533.68,Akwa Ibom,2166.26,Borno,916.67
+Plantain (unripe),2024-12-01,1550.15,Ondo,2310.0,Yobe,901.0
+Rice agric sold loose,2024-12-01,2037.3,Nasarawa,3202.33,Benue,1386.21
+Rice local sold loose,2024-12-01,1944.4,Kogi,2738.22,Benue,1296.57
+Rice Medium Grained,2024-12-01,2092.39,Kogi,2900.11,Benue,1666.29
+Rice Long-Grained (Imported),2024-12-01,2520.78,Kwara,3350.33,Borno,1757.13
+Sweet potatoes,2024-12-01,930.79,Cross River,1969.15,Adamawa,450.0
+Tilapia fresh fish (Epiya),2024-12-01,4106.72,Ebonyi,6440.75,Taraba,2300.0
+"Titus, frozen",2024-12-01,4725.17,Ebonyi,5862.69,Taraba,3350.0
+"Tomatoes, fresh",2024-12-01,1453.5,Ebonyi,2421.37,Jigawa,694.31
+"Vegetable Oil, 75cl",2024-12-01,3362.83,Ekiti,4100.0,Abuja,2301.44
+"Wheat Flour, Prepacked (2kg)",2024-12-01,3871.48,Niger,5463.63,Plateau,2739.94
+Yam Tuber,2024-12-01,1905.9,Kwara,4200.11,Borno,895.09
+Agric hen eggs,2025-01-01,248.04,Enugu,325.0,Adamawa,200.0
+"Agric hen eggs, (a Crate of 30 pieces)",2025-01-01,5878.14,Enugu,7000.0,Niger,4613.06
+Beans Brown,2025-01-01,2458.53,Abia,3230.87,Sokoto,1575.36
+Beans white,2025-01-01,2123.85,Enugu,2722.76,Sokoto,1370.59
+Beef Boneless,2025-01-01,6122.57,Imo,8239.82,Benue,4200.0
+"Bread (sliced), 450g",2025-01-01,1604.78,Ogun,1950.0,Osun,1300.0
+"Bread (unsliced), 450g",2025-01-01,1452.98,Akwa Ibom,1800.0,Yobe,900.0
+"Carrots, fresh",2025-01-01,1787.16,Bayelsa,2572.73,Benue,1400.0
+Catfish (obokun) fresh,2025-01-01,5226.87,Plateau,7608.1,Kaduna,3442.5
+Chicken Feet,2025-01-01,3293.63,Ondo,4750.0,Taraba,2000.0
+Frozen chicken,2025-01-01,5497.03,Ebonyi,7800.0,Sokoto,4000.0
+Chicken Wings,2025-01-01,4340.11,Niger,5703.26,Yobe,2709.25
+Cray fish small white,2025-01-01,6227.04,Abuja,7800.0,Bayelsa,4000.0
+"Dried fish, Bonga",2025-01-01,6131.98,Enugu,8900.0,Bayelsa,4202.78
+Garri white,2025-01-01,1267.63,Abuja,1662.11,Oyo,909.09
+Garri Yellow,2025-01-01,1358.96,Gombe,1692.31,Benue,980.24
+"Ginger, fresh",2025-01-01,4206.8,Oyo,5000.0,Katsina,2550.0
+Goat Meat Bone in,2025-01-01,6202.36,Akwa Ibom,8687.5,Kogi,3925.0
+"Groundnut oil, 75cl",2025-01-01,2939.73,Ogun,3900.0,Adamawa,2000.0
+"Groundnuts, roasted,75cl bottle",2025-01-01,2387.76,Bayelsa,3125.0,Kano,1806.47
+Irish Potato,2025-01-01,1790.91,Oyo,2687.5,Abuja,972.45
+Local Rice (Broken),2025-01-01,2508.15,Ogun,4500.0,Yobe,1416.67
+Mackerel Frozen,2025-01-01,5117.81,Plateau,8696.05,Zamfara,3196.67
+Maize grain white,2025-01-01,1168.34,Imo,1762.5,Kebbi,692.27
+Onions fresh,2025-01-01,1367.62,Cross River,2500.0,Taraba,520.0
+"Palm oil, 75cl",2025-01-01,2329.54,Ogun,3000.0,Taraba,1363.33
+Plantain (ripe),2025-01-01,1876.03,Akwa Ibom,2202.78,Lagos,1584.06
+Plantain (unripe),2025-01-01,2119.07,Plateau,2821.97,Oyo,1564.71
+"Rice Local, short-Grained",2025-01-01,2068.0,Plateau,2559.74,Oyo,1578.69
+Rice Long-Grained (Imported),2025-01-01,2505.48,Plateau,3181.82,Oyo,1935.48
+"Semovita, Prepacked (1kg)",2025-01-01,2072.0,Rivers,2550.0,Oyo,1700.0
+Smoked fish (Mackerel),2025-01-01,5407.63,Kwara,8000.0,Kebbi,3360.04
+Sweet potatoes,2025-01-01,852.52,Taraba,1700.0,Nasarawa,500.0
+Tilapia fresh fish (Epiya),2025-01-01,5065.36,Benue,8239.29,Kebbi,3692.11
+"Tin Milk-Evaporated, Peak Milk, 150g",2025-01-01,928.0,Rivers,1150.0,Bayelsa,725.0
+"Tin Milk-Evaporated, Three Crown Milk, 160g",2025-01-01,837.23,Bayelsa,1200.0,Benue,675.0
+"Titus, frozen",2025-01-01,5467.23,Kwara,8343.26,Taraba,4000.0
+"Tomatoes, fresh",2025-01-01,1081.44,Ebonyi,1778.11,Kebbi,512.96
+"Vegetable Oil, 75cl",2025-01-01,2975.96,Ekiti,4616.67,Adamawa,1800.0
+"Watermelon whole, medium size fresh",2025-01-01,1850.84,Akwa Ibom,2500.0,Zamfara,1200.0
+"Wheat Flour, Prepacked (2kg)",2025-01-01,3847.37,Borno,5500.0,Bauchi,2700.0
+Yam Tuber,2025-01-01,1991.33,Ogun,2566.67,Ondo,1450.0
+Agric hen eggs,2025-02-01,251.94,Enugu,325.0,Adamawa,200.0
+"Agric hen eggs, (a Crate of 30 pieces)",2025-02-01,5976.12,Enugu,7250.0,Kogi,5000.0
+Beans Brown,2025-02-01,2465.96,Ebonyi,3200.0,Sokoto,1572.83
+Beans white,2025-02-01,2114.33,Abia,2825.33,Yobe,1371.48
+Beef Boneless,2025-02-01,6269.46,Imo,8392.86,Benue,4250.0
+"Bread (sliced), 450g",2025-02-01,1633.19,Ogun,1950.0,Osun,1256.25
+"Bread (unsliced), 450g",2025-02-01,1497.43,Akwa Ibom,1900.0,Yobe,900.0
+"Carrots, fresh",2025-02-01,1838.59,Imo,2557.14,Zamfara,1410.0
+Catfish (obokun) fresh,2025-02-01,5284.36,Plateau,7608.1,Kaduna,3500.0
+Chicken Feet,2025-02-01,3346.62,Ondo,4750.0,Taraba,2100.0
+Frozen chicken,2025-02-01,5552.7,Enugu,8000.0,Sokoto,4200.0
+Chicken Wings,2025-02-01,4394.41,Niger,5598.22,Yobe,3009.25
+Cray fish small white,2025-02-01,6440.44,Kogi,8000.0,Bayelsa,4300.0
+"Dried fish, Bonga",2025-02-01,6160.02,Enugu,9000.0,Adamawa,4000.0
+Garri white,2025-02-01,1277.25,Kebbi,1693.78,Ogun,923.61
+Garri Yellow,2025-02-01,1378.15,Kebbi,1744.39,Ekiti,961.54
+"Ginger, fresh",2025-02-01,4371.9,Rivers,5300.0,Katsina,2650.0
+Goat Meat Bone in,2025-02-01,6298.89,Akwa Ibom,9500.0,Kogi,3800.0
+"Groundnut oil, 75cl",2025-02-01,3039.83,Ogun,3900.0,Abuja,2250.0
+"Groundnuts, roasted,75cl bottle",2025-02-01,2392.47,Bayelsa,3148.21,Osun,1900.0
+Irish Potato,2025-02-01,1756.41,Anambra,2782.21,Abuja,931.78
+Local Rice (Broken),2025-02-01,2564.95,Ogun,4500.0,Yobe,1416.67
+Mackerel Frozen,2025-02-01,5233.15,Plateau,8517.33,Oyo,3568.18
+Maize grain white,2025-02-01,1169.32,Imo,1979.17,Yobe,687.5
+Onions fresh,2025-02-01,1372.04,Cross River,2483.33,Taraba,560.0
+"Palm oil, 75cl",2025-02-01,2384.15,Ogun,3000.0,Adamawa,1500.0
+Plantain (ripe),2025-02-01,1914.5,Abuja,2400.0,Gombe,1476.25
+Plantain (unripe),2025-02-01,2127.67,Plateau,2886.64,Osun,1479.78
+"Rice Local, short-Grained",2025-02-01,2088.82,Plateau,2600.0,Oyo,1516.13
+Rice Long-Grained (Imported),2025-02-01,2565.09,Plateau,3190.91,Oyo,1938.71
+"Semovita, Prepacked (1kg)",2025-02-01,2089.79,Rivers,2580.0,Lagos,1800.0
+Smoked fish (Mackerel),2025-02-01,5458.02,Kwara,8230.0,Kebbi,3401.7
+Sweet potatoes,2025-02-01,823.3,Taraba,1594.31,Adamawa,520.0
+Tilapia fresh fish (Epiya),2025-02-01,5103.94,Benue,8239.29,Yobe,3750.0
+"Tin Milk-Evaporated, Peak Milk, 150g",2025-02-01,931.03,Enugu,1200.0,Bayelsa,782.14
+"Tin Milk-Evaporated, Three Crown Milk, 160g",2025-02-01,827.31,Bayelsa,1057.14,Kogi,650.0
+"Titus, frozen",2025-02-01,5564.29,Kwara,8343.26,Yobe,4200.0
+"Tomatoes, fresh",2025-02-01,1111.14,Ebonyi,1787.31,Kebbi,624.32
+"Vegetable Oil, 75cl",2025-02-01,3090.51,Ekiti,4648.67,Adamawa,2200.0
+"Watermelon whole, medium size fresh",2025-02-01,1926.2,Anambra,2795.0,Zamfara,1100.0
+"Wheat Flour, Prepacked (2kg)",2025-02-01,3890.8,Imo,5616.67,Bauchi,2800.0
+Yam Tuber,2025-02-01,2022.03,Imo,2535.03,Ondo,1417.87
+Agric hen eggs,2025-03-01,261.18,Enugu,354.75,Kaduna,210.0
+"Agric hen eggs, (a Crate of 30 pieces)",2025-03-01,7670.56,Enugu,7930.0,Niger,5300.0
+Beans Brown,2025-03-01,2616.26,Abia,3651.13,Sokoto,1634.36
+Beans white,2025-03-01,2215.11,Enugu,3122.19,Abuja,1521.57
+Beef Boneless,2025-03-01,6523.5,Imo,8569.93,Yobe,5250.0
+"Bread (sliced), 450g",2025-03-01,1680.17,Ogun,2187.92,Osun,1256.25
+"Bread (unsliced), 450g",2025-03-01,1561.24,Ebonyi,1908.56,Yobe,960.0
+"Carrots, fresh",2025-03-01,1947.05,Imo,2980.7,Zamfara,1450.0
+Catfish (obokun) fresh,2025-03-01,5507.11,Plateau,8213.1,Zamfara,3590.0
+Chicken Feet,2025-03-01,3487.06,Ondo,4750.0,Kano,2281.25
+Frozen chicken,2025-03-01,5675.68,Enugu,8200.0,Sokoto,4500.0
+Chicken Wings,2025-03-01,4671.31,Ogun,6324.11,Yobe,3184.25
+Cray fish small white,2025-03-01,6657.0,Kogi,8000.0,Bayelsa,4500.0
+"Dried fish, Bonga",2025-03-01,6493.78,Ebonyi,10004.01,Osun,4420.0
+Garri white,2025-03-01,1362.96,Abuja,1901.33,Ondo,950.0
+Garri Yellow,2025-03-01,1456.65,Katsina,1903.28,Oyo,1152.77
+"Ginger, fresh",2025-03-01,4600.23,Ebonyi,6079.7,Katsina,3044.38
+Goat Meat Bone in,2025-03-01,6892.46,Akwa Ibom,10340.0,Kogi,3850.0
+"Groundnut oil, 75cl",2025-03-01,3218.82,Ekiti,4209.71,Ebonyi,2394.41
+"Groundnuts, roasted,75cl bottle",2025-03-01,2487.68,Zamfara,3235.2,Kwara,2000.0
+Irish Potato,2025-03-01,1881.76,Anambra,3021.19,Abuja,1098.24
+Local Rice (Broken),2025-03-01,2671.73,Ogun,4500.0,Jigawa,1523.0
+Mackerel Frozen,2025-03-01,5482.63,Plateau,9965.28,Zamfara,3415.0
+Maize grain white,2025-03-01,1278.76,Imo,2064.13,Kano,718.23
+Onions fresh,2025-03-01,1434.85,Abia,2841.43,Taraba,600.0
+"Palm oil, 75cl",2025-03-01,2511.77,Ekiti,3128.96,Taraba,1730.0
+Plantain (ripe),2025-03-01,2002.58,Plateau,2696.63,Gombe,1538.75
+Plantain (unripe),2025-03-01,2214.57,Plateau,2904.77,Oyo,1690.91
+"Rice Local, short-Grained",2025-03-01,2242.64,Enugu,2691.0,Oyo,1773.87
+Rice Long-Grained (Imported),2025-03-01,2679.51,Plateau,3590.91,Oyo,2125.16
+"Semovita, Prepacked (1kg)",2025-03-01,2173.12,Rivers,2775.0,Lagos,1800.0
+Smoked fish (Mackerel),2025-03-01,5752.76,Kwara,8258.0,Kebbi,3645.99
+Sweet potatoes,2025-03-01,909.88,Taraba,1817.51,Adamawa,530.0
+Tilapia fresh fish (Epiya),2025-03-01,5459.04,Benue,8323.74,Kebbi,4000.0
+"Tin Milk-Evaporated, Peak Milk, 150g",2025-03-01,999.18,Enugu,1287.5,Osun,827.5
+"Tin Milk-Evaporated, Three Crown Milk, 160g",2025-03-01,872.14,Delta,1073.3,Kogi,701.0
+"Titus, frozen",2025-03-01,5860.01,Kwara,8927.29,Oyo,4485.35
+"Tomatoes, fresh",2025-03-01,1157.35,Ebonyi,1882.36,Yobe,650.0
+"Vegetable Oil, 75cl",2025-03-01,3337.01,Ekiti,4850.0,Jigawa,2517.5
+"Watermelon whole, medium size fresh",2025-03-01,2040.82,Anambra,3057.65,Zamfara,1300.0
+"Wheat Flour, Prepacked (2kg)",2025-03-01,4114.24,Imo,6008.67,Bauchi,2925.0
+Yam Tuber,2025-03-01,2141.13,Imo,2765.99,Ondo,1523.42
+Agric hen eggs,2025-04-01,259.32,Enugu,356.73,Kaduna,220.0
+"Agric hen eggs, (a Crate of 30 pieces)",2025-04-01,6150.18,Enugu,7869.33,Jigawa,540.0
+Beans Brown,2025-04-01,2429.39,Abia,3600.0,Sokoto,1658.02
+Beans white,2025-04-01,2097.31,Enugu,3100.0,Kaduna,1503.96
+Beef Boneless,2025-04-01,6544.54,Abia,8673.77,Yobe,5300.0
+"Bread (sliced), 450g",2025-04-01,1688.4,Ogun,2187.92,Osun,1256.25
+"Bread (unsliced), 450g",2025-04-01,1547.52,Ebonyi,1922.3,Ekiti,1000.0
+"Carrots, fresh",2025-04-01,1931.32,Imo,3000.0,Borno,1200.0
+Catfish (obokun) fresh,2025-04-01,5572.49,Plateau,8213.1,Zamfara,3615.22
+Chicken Feet,2025-04-01,3502.7,Ondo,4750.0,Gombe,2300.0
+Frozen chicken,2025-04-01,5740.15,Enugu,8216.56,Gombe,4600.0
+Chicken Wings,2025-04-01,4771.92,Ogun,6324.11,Yobe,3175.0
+Cray fish small white,2025-04-01,6655.66,Kogi,8000.0,Akwa Ibom,4576.03
+"Dried fish, Bonga",2025-04-01,6657.74,Ebonyi,10000.0,Osun,4500.0
+Garri white,2025-04-01,1345.1,Abuja,1902.0,Ondo,1000.0
+Garri Yellow,2025-04-01,1422.34,Yobe,2060.0,Oyo,1100.0
+"Ginger, fresh",2025-04-01,4970.66,Ebonyi,6413.27,Adamawa,3800.0
+Goat Meat Bone in,2025-04-01,6708.45,Imo,9200.0,Kogi,4000.0
+"Groundnut oil, 75cl",2025-04-01,3250.32,Ekiti,4200.0,Abia,2335.05
+"Groundnuts, roasted,75cl bottle",2025-04-01,2545.72,Bayelsa,3223.21,Yobe,2100.0
+Irish Potato,2025-04-01,1948.61,Anambra,3044.25,Abuja,1200.0
+Local Rice (Broken),2025-04-01,2517.89,Abuja,3800.0,Yobe,1610.02
+Mackerel Frozen,2025-04-01,5417.4,Plateau,9000.0,Oyo,3500.0
+Maize grain white,2025-04-01,1239.61,Imo,2000.0,Yobe,858.67
+Onions fresh,2025-04-01,1503.56,Abia,2840.42,Niger,850.0
+"Palm oil, 75cl",2025-04-01,2516.36,Enugu,3216.49,Taraba,1795.83
+Plantain (ripe),2025-04-01,2057.4,Plateau,2696.63,Kano,1650.58
+Plantain (unripe),2025-04-01,2231.81,Plateau,2904.77,Kano,1566.67
+"Rice Local, short-Grained",2025-04-01,2144.05,Enugu,2600.0,Oyo,1800.0
+Rice Long-Grained (Imported),2025-04-01,2574.11,Cross River,3200.0,Taraba,2000.0
+"Semovita, Prepacked (1kg)",2025-04-01,2257.2,Adamawa,2887.0,Lagos,1900.0
+Smoked fish (Mackerel),2025-04-01,5920.84,Kwara,8258.0,Kebbi,3871.39
+Sweet potatoes,2025-04-01,938.42,Delta,1588.38,Nasarawa,560.0
+Tilapia fresh fish (Epiya),2025-04-01,5489.28,Benue,8323.75,Yobe,4050.0
+"Tin Milk-Evaporated, Peak Milk, 150g",2025-04-01,994.19,Enugu,1302.83,Oyo,860.0
+"Tin Milk-Evaporated, Three Crown Milk, 160g",2025-04-01,888.91,Borno,1184.25,Osun,750.0
+"Titus, frozen",2025-04-01,5939.29,Kwara,8927.29,Oyo,4490.0
+"Tomatoes, fresh",2025-04-01,1283.57,Imo,1929.19,Kaduna,848.78
+"Vegetable Oil, 75cl",2025-04-01,3374.81,Ekiti,4800.0,Adamawa,2600.0
+"Watermelon whole, medium size fresh",2025-04-01,2057.35,Anambra,3057.15,Katsina,1384.6
+"Wheat Flour, Prepacked (2kg)",2025-04-01,4166.57,Imo,6247.72,Ondo,3300.0
+Yam Tuber,2025-04-01,2240.08,Imo,2985.28,Benue,1810.0
