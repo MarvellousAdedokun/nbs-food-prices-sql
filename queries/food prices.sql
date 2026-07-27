@@ -28,3 +28,9 @@ DESCRIBE zone_prices;
 
 SELECT COUNT(*) FROM item_prices;
 SELECT COUNT(*) FROM zone_prices;
+
+SELECT item_name, avg_price
+FROM item_prices
+WHERE month = '2025-04-01'
+ORDER BY avg_price DESC;
+
