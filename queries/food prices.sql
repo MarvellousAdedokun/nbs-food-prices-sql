@@ -34,3 +34,11 @@ FROM item_prices
 WHERE month = '2025-04-01'
 ORDER BY avg_price DESC;
 
+SELECT item_name, avg_price
+FROM item_prices
+WHERE month = '2025-11-01'
+ORDER BY avg_price ASC
+LIMIT 5;
+
+SELECT month
+FROM item_prices;
